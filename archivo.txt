@@ -1,1 +1,6 @@
-﻿Práctica de Git -- Cambio desarrollador 1
+Práctica de Git -- Cambio desarrollador 1
+
+Práctica de Git -- Cambio desarrollador 2
+
+Nueva línea
+
